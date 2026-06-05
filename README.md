@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <!-- Custom Website Logo -->
-  <!-- <a href="https://mohanishjanjan.github.io/" target="_blank">
-    <img height="28" src="https://www.yourwebsite.com/path-to-your/logo.svg" alt="Web-X | Mohanish Janjan">
-  </a> -->
+  <a href="https://mohanishjanjan.github.io/" target="_blank">
+    <img height="28" src="favicon.svg" alt="Web-X | Mohanish Janjan">
+  </a>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Currently, my focus is on building a strong technical foundation. While I'm gain
 
 ### 🚀 Highlighted Project
 
-| <img src="https://mohanishjanjan.github.io/preview.png" alt="Web-X Portfolio Preview" width="250"> | **[Personal Portfolio Website](https://mohanishjanjan.github.io/)**<br/><br/>A fully responsive, minimal web portfolio built from scratch using HTML, CSS, and vanilla JavaScript to showcase my work, technical journey, and professional background. |
+| <img src="https://mohanishjanjan.github.io/preview.png" alt="Web-X Portfolio Preview" width="250"> | **[Web-X | Mohanish Janjan](https://mohanishjanjan.github.io/)**<br/><br/>A fully responsive, minimal web portfolio built from scratch using HTML, CSS, and vanilla JavaScript to showcase my work, technical journey, and professional background. |
 | :--- | :--- |
 
 > **Note:** I am currently exploring new concepts and developing several other applications to sharpen my skills. Their codebases will be published here upon completion.
