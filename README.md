@@ -14,7 +14,7 @@
   </a>
   <!-- Custom Website Logo -->
   <a href="https://mohanishjanjan.github.io/" target="_blank">
-    <img height="28" src="https://mohanishjanjan.github.io/favicon.svg" alt="Web-X | Mohanish Janjan">
+    <img height="28" src="https://mohanishjanjan.github.io/assets/icons/favicon.svg" alt="Web-X | Mohanish Janjan">
   </a>
 </p>
 
