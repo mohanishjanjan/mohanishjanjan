@@ -26,7 +26,7 @@ I'm a passionate Computer Science student with a genuine love for technology and
 
 Currently, my focus is on building a strong technical foundation. While I'm gaining hands-on experience through React Native and SEO internships at my college, my main goal right now is to absorb as much knowledge as possible. I am always eager to learn new concepts, explore new technologies, and turn my ideas into reality. 
 
-* 🎓 **Academics:** Second-year BCA student
+* 🎓 **Academics:** Final-year BCA student
 * 🌱 **Currently:** Gaining practical experience through college internships in App Dev (React Native) and SEO
 * 🎯 **Focus:** Learning new technologies, building practical skills, and practicing coding every single day
 
